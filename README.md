@@ -5,21 +5,25 @@
 
 ### I'm Samuel Haile, a software developer 💻 with a background in occupational therapy 🏥  
 <br/>  
-  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samhaile-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
- 
-  
-  <br/>  
 
-Checkout the projects I'm working on [here](https://github.com/samhaile7)
   
-[Email me](mailto:samhaile129@gmail.com) 📬  
+
   - **Checkout the projects I'm working on [here](https://github.com/samhaile7)**  
   
 
 - **[Email me](mailto:samhaile129@gmail.com) 📬**  
+
+
+
+
+ 
+  
+
+
+
 
 
 ## Skills 
