@@ -11,7 +11,7 @@
 
   
 
-  - **Checkout the projects I'm working on [here](https://github.com/samhaile7)**  
+  - **Checkout the projects I'm working on below**  
   
 
 - **[Email me](mailto:samhaile129@gmail.com) 📬**  
