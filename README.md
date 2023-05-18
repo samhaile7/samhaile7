@@ -15,11 +15,11 @@
 
 Checkout the projects I'm working on [here](https://github.com/samhaile7)
   
-
 [Email me](mailto:samhaile129@gmail.com) 📬  
+  - **Checkout the projects I'm working on [here](https://github.com/samhaile7)**  
   
 
-<br/>  
+- **[Email me](mailto:samhaile129@gmail.com) 📬**  
 
 
 ## Skills 
